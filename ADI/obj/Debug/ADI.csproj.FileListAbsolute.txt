@@ -1,0 +1,10 @@
+D:\Visual Studio\Projects\Pentru Adi\ADI\ADI\bin\Debug\ADI.exe.config
+D:\Visual Studio\Projects\Pentru Adi\ADI\ADI\bin\Debug\ADI.exe
+D:\Visual Studio\Projects\Pentru Adi\ADI\ADI\bin\Debug\ADI.pdb
+D:\Visual Studio\Projects\Pentru Adi\ADI\ADI\obj\Debug\ADI.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Pentru Adi\ADI\ADI\obj\Debug\ADI.Form1.resources
+D:\Visual Studio\Projects\Pentru Adi\ADI\ADI\obj\Debug\ADI.Properties.Resources.resources
+D:\Visual Studio\Projects\Pentru Adi\ADI\ADI\obj\Debug\ADI.csproj.GenerateResource.Cache
+D:\Visual Studio\Projects\Pentru Adi\ADI\ADI\obj\Debug\ADI.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Pentru Adi\ADI\ADI\obj\Debug\ADI.exe
+D:\Visual Studio\Projects\Pentru Adi\ADI\ADI\obj\Debug\ADI.pdb
